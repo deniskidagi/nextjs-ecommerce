@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Asus ROG 19 Laptop",
+        "id": "sticker_logo",
+        "description": "G513QM-HF047 15 R7-5800H/16GB/1TB SSD/RTX 3060 8GB Gaming",
+        "price": "2.00",
+        "image":"/images/strix-g19.jpg"
+      },
+      {
+        "title": "Asus Rog Strix",
+        "id": "sticker_logo_pack",
+        "description": "G513QM-HF047 15 R7-5800H/16GB/1TB SSD/RTX 3060 6GB Gaming",
+        "price": "500",
+        "image":"/images/rog-17.3.jpg"
+      },
+      {
+        "title": "Snipcart Logo Sticker Pack",
+        "id": "sticker_logo_pack",
+        "description": "Asus ROG Zephyrus Duo 15 is a gaming laptop with 2 screens. The Verge",
+        "price": "4.00",
+        "image":"/images/duo-15.png"
+      },
+      {
+        "title": "Asus ROG  3703GXR",
+        "id": "sticker_logo_pack",
+        "description": "ASUS ROG G703GXR: A 17.3-inch gaming monster with few compromises",
+        "price": "4.00",
+        "image":"/images/rog-17.3.jpg"
+      },
+      {
+        "title": "Asus ROG G713QM",
+        "id": "sticker_logo_pack",
+        "description": "ASUS ROG Strix G17 G713QM-ES94 - XOTIC PC",
+        "price": "300",
+        "image":"/images/g7-13.png"
+      },
+      {
+        "title": "Asus ROG Strix Scar II",
+        "id": "sticker_logo_pack",
+        "description": "Asus ROG Strix Scar II 15 review: powerful portable gaming - The Verge",
+        "price": "400",
+        "image":"/images/strix-scar2.jpg"
+      },
+      {
+        "title": "Snipcart Logo Sticker Pack",
+        "id": "sticker_logo_pack",
+        "description": "Asus ROG Strix Scar II GL704GV-EV024T - Notebookcheck.net External Reviews",
+        "price": "200",
+        "image":"/images/strix-scar2-gl.jpg"
+      },
+      {
+        "title": "ASUS ROG Zephyrus Duo 4K",
+        "id": "sticker_logo",
+        "description": "ASUS ROG Zephyrus Duo 4K Touchscreen Gaming Laptop | HiConsumption",
+        "price": "250",
+        "image":"/images/duo-4k.jpg"
+      },
+      {
+        "title": "ZDNet 2022 top rings",
+        "id": "sticker_logo",
+        "description": "ASUS ROG ZDNet 2022 4K Touchscreen top Gaming Laptop | HiConsumption",
+        "price": "600",
+        "image":"/images/zd-net.jpg"
+      }
+
+]
